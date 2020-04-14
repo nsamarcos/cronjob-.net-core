@@ -1,0 +1,10 @@
+C:\Users\msampaio\source\repos\CronJobCore\CronJobCore\bin\Debug\netcoreapp3.1\CronJobCore.exe
+C:\Users\msampaio\source\repos\CronJobCore\CronJobCore\bin\Debug\netcoreapp3.1\CronJobCore.deps.json
+C:\Users\msampaio\source\repos\CronJobCore\CronJobCore\bin\Debug\netcoreapp3.1\CronJobCore.runtimeconfig.json
+C:\Users\msampaio\source\repos\CronJobCore\CronJobCore\bin\Debug\netcoreapp3.1\CronJobCore.runtimeconfig.dev.json
+C:\Users\msampaio\source\repos\CronJobCore\CronJobCore\bin\Debug\netcoreapp3.1\CronJobCore.dll
+C:\Users\msampaio\source\repos\CronJobCore\CronJobCore\bin\Debug\netcoreapp3.1\CronJobCore.pdb
+C:\Users\msampaio\source\repos\CronJobCore\CronJobCore\obj\Debug\netcoreapp3.1\CronJobCore.AssemblyInfoInputs.cache
+C:\Users\msampaio\source\repos\CronJobCore\CronJobCore\obj\Debug\netcoreapp3.1\CronJobCore.AssemblyInfo.cs
+C:\Users\msampaio\source\repos\CronJobCore\CronJobCore\obj\Debug\netcoreapp3.1\CronJobCore.dll
+C:\Users\msampaio\source\repos\CronJobCore\CronJobCore\obj\Debug\netcoreapp3.1\CronJobCore.pdb
